@@ -1,0 +1,228 @@
+body{
+	position: absolute;
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    height:1060px;
+    width:1900px;
+    padding: 0;
+    display: block
+    color: black; 
+    font-size: 10pt; 
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #E2E2E2;
+}
+img {
+	margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0;
+    display: block
+    }
+.contactinfo {
+font-size:20px;
+top:57%;
+left:38%;
+background:transparent;
+display:block-inline;
+position:absolute;
+text-align:center;
+}
+/* Home Button */
+.button1 { 
+outline:none;
+cursor:pointer;
+    position:absolute;
+	display: block-inline;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    height: 100px;
+    width: 150px;
+    }
+    
+    /* Inventory Button */
+    
+    .button2 {
+    outline:none;
+cursor:pointer;
+    position:absolute;
+    left: 8.5%;
+	display: block-inline;
+    background: transparent;
+    border:none !important;
+    font-size:0;
+    height: 100px;
+    width: 150px;
+    }
+    
+    /* Financing */
+    .button3 {
+    outline:none;
+cursor:pointer;
+        position:absolute;
+        left:17%;
+	display: block-inline;
+    background: transparent;
+    border:none !important;
+    font-size:0;
+    height: 100px;
+    width: 150px;
+    }
+    
+    /* About */
+        .button4 {
+        outline:none;
+cursor:pointer;
+        position:absolute;
+        left:25%;
+	display: block-inline;
+    background: transparent;
+    border:none !important;
+    font-size:0;
+    height: 100px;
+    width: 150px;
+    }
+    #sidebar{
+    padding: 2px;
+    position:absolute;
+    top:50%;
+    left:1%;
+    border:1px solid black;
+    text-align:left;
+    display:block-inline;
+    background:gray;
+    }
+    .words{
+    position:absolute;
+    display:block-inline;
+    background:transparent;
+    }
+    .info {
+    font-size: 25px;
+    position:absolute;
+    display:block-inline;
+    background:transparent;
+    text-align:center;
+    left:25%;
+    top:60%;
+    }
+    #aboutinfo {
+    top:55%;
+    left:20%;
+    font-size:20pt;
+    text-align:center;
+    }
+    #home {
+    font-family:verdana;
+    font-size: 30px;
+    left:23%;
+    }
+    #inventory {
+    font-family:verdana;
+    font-size:30px;
+    left:37%;
+    }
+    #finance {
+    font-size: 30px;
+    left:40%;
+     font-family:verdana;
+    }
+    
+    #about {
+   font-size: 30px;
+    text-align:center;
+     font-family:verdana;
+     left:45%;
+    }
+    .photos{
+    position:absolute;
+    display:block-inline;
+    background:transparent;
+    }
+    #slideshowinfo {
+    text-align:center;
+    left:25%;
+    top:63%;
+    }
+    .slideshow{
+  padding: 2px;
+    position:absolute;
+    top:70%;
+    left:30%;
+    text-align:left;
+    display:block-inline;
+    background:gray;
+    }
+    #map {
+    position:absolute;
+    top:80%;
+    left:34%;
+    display:block-inline;
+    background:transparent;
+    }
+    #demon{
+    border:2px solid black;
+    top:60%;
+    left:20%;
+    }
+    #pacifica{
+        border:2px solid black;
+    top:60%;
+    left:40%;
+    height:278;
+    width:370;
+    }
+    #dart {
+      height:278px;
+    width:370px;
+    top:88%;
+    left:60%;
+    border:2px solid black;
+    }
+    #charger{
+            border:2px solid black;
+    top:60%;
+    left:60%;
+    height:278;
+    width:370;
+    }
+    #contact {
+   font-size: 30px;
+    left:45%;
+     font-family:verdana;
+    }
+    #durango {
+    height:278px;
+    width:370px;
+    top:88%;
+    left:20%;
+    border:2px solid black;
+    }
+    #caravan {
+     height:278px;
+    width:370px;
+    top:88%;
+    left:40%;
+    border:2px solid black;
+    }
+    #carslogo {
+    top:100%;
+    left:35%;
+    }
+    /* Contact */
+            .button5 {
+            outline:none;
+cursor:pointer;
+        position:absolute;
+        left:34%;
+	display: block-inline;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    height: 100px;
+    width: 150px;
+    }
+    
