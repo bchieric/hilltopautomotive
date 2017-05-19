@@ -124,7 +124,7 @@ cursor:pointer;
 	    background:transparent;
 	    position:absolute;
 	    display:block;
-	    top:175%;
+	    top:100%;
 	    left:50%;
 }
     #inventory {
