@@ -120,13 +120,6 @@ cursor:pointer;
     font-size: 30px;
     left:23%;
     }
-    #useless {
-	    background:transparent;
-	    position:absolute;
-	    /*display:inline; */
-	    top:1055px;
-	    left:50%;
-}
     #inventory {
     font-family:verdana;
     font-size:30px;
@@ -232,4 +225,10 @@ cursor:pointer;
     height: 100px;
     width: 150px;
     }
-    
+        #useless {
+	    background:transparent;
+	    position:absolute;
+	    /*display:inline; */
+	    top:1055px;
+	    left:50%;
+}
