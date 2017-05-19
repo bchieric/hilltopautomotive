@@ -228,5 +228,5 @@ cursor:pointer;
         #useless {
 	    background:transparent;
 	    position:absolute;
-	    display:inline;
+	    display:block-inline;
 }
