@@ -123,8 +123,7 @@ cursor:pointer;
     #useless {
 	    background:transparent;
 	    position:absolute;
-	    display:block-inline;
-	    text-align:center;
+	    display:block;
 	    top:99%;
 	    left:50%;
 }
