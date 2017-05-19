@@ -125,7 +125,8 @@ cursor:pointer;
 	    width:300px;
 	    background:transparent;
 	    position:absolute;
-	    display:block;
+	    display:block-inline;
+	    text-align:center;
 	    top:95%;
 	    left:50%;
 }
