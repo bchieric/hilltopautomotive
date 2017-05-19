@@ -229,4 +229,5 @@ cursor:pointer;
 	    background:transparent;
 	    position:absolute;
 	    display:block-inline;
+		left:50%;
 }
