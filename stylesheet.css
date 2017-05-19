@@ -123,9 +123,9 @@ cursor:pointer;
     #useless {
 	    background:transparent;
 	    position:absolute;
-	    display:block-inline;
-	    top:50%;
-	    left:95%;
+	    display:block;
+	    top:95%;
+	    left:50%;
 }
     #inventory {
     font-family:verdana;
