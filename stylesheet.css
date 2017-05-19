@@ -121,6 +121,8 @@ cursor:pointer;
     left:23%;
     }
     #useless {
+	    height:100px;
+	    width:300px;
 	    background:transparent;
 	    position:absolute;
 	    display:block;
