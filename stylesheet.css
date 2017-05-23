@@ -228,6 +228,7 @@ cursor:pointer;
         .useless {
 	    background:transparent;
 	    position:absolute;
+		text-align:bottom;
 	    display:block-inline;
 		left:50%;
 		top:95%;
