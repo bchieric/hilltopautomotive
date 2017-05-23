@@ -229,6 +229,7 @@ cursor:pointer;
 	    background:transparent;
 	    position:absolute;
 		text-align:center;
+		vertical-align:middle;
 	    display:block-inline;
 		top:98%;
 		bottom: 0 px;
